@@ -1,0 +1,16 @@
+# Laravel için gereksiz dosyalar
+/vendor
+/node_modules
+/.git
+/.gitignore
+/.env
+/.idea
+/.vscode
+/storage/*
+/storage/*.key
+/storage/*.log
+/tests
+/.env.local
+/.env.testing
+/public/storage
+/public/.gitignore
